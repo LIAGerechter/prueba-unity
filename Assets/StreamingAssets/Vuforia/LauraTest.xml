@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="frozen" size="5.000000 3.757856" />
+    <ImageTarget name="pizza" size="5.000000 4.991763" />
+    <ImageTarget name="nachrose" size="5.000000 3.704854" />
+    <ImageTarget name="tarjeta" size="5.500000 9.713151" />
+  </Tracking>
+</QCARConfig>
